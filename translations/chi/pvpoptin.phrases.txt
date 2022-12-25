@@ -236,5 +236,9 @@
 	{
 		"chi"	"{darkviolet}[PvP]{default} 只有当你们都是 {goldenrod}全局PvP{default} 状态下才可以治疗玩家！"
 	}
+	"Model invalid for global pvp"
+	{
+		"chi"	"{darkviolet}[PvP]{default} 你 {crimson}不能使用这种模型{default} 参与 {goldenrod}全局PvP{default}。"
+	}
 
 }
